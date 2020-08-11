@@ -7,7 +7,6 @@ This is Roger de Oliveira Trevizan, returning to the tech area, once again!
 
 - 🔭 I’m currently working with WordPress and Elementor on freelance jobs. 
 - 🌱 I’m learning Ruby, because I like it. :}
-- 💬 Ask me about: tech, religion and anime.
 -  ⚡ Basic tech skills: PHP, Java, C++, Ruby.
 
 <!--
