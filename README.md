@@ -5,7 +5,7 @@
 ### 
 This is Roger, returning to the tech area! 👋 
 
-Learning Ruby [![Ruby](https://cdn.emojidex.com/emoji/px16/Ruby.png "Ruby") ](https://www.ruby-lang.org)  
+Learning PHP
 
 <!--
 **roger-otrevizan/roger-otrevizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
