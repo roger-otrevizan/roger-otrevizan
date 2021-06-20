@@ -3,9 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-roger.trevizan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roger.trevizan@gmail.com)](mailto:roger.trevizan@gmail.com)
 
 ### 
-This is Roger, returning to the tech area! 👋 
+This is Roger! 👋 
 
-Learning PHP
+Laravel developer.
 
 <!--
 **roger-otrevizan/roger-otrevizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
